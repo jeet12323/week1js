@@ -9,3 +9,12 @@ function calculateOperations(num1, num2) {
     quotient: quotient
     };
     }
+    // Example usage var n1 = 10; var n2 =
+375.2; var result =
+calculateOperations(n1, n2);
+console.log("Sum:", result.sum);
+console.log("Difference:",
+result.difference);
+console.log("Product:", result.product);
+console.log("Quotient:",
+result.quotient);
